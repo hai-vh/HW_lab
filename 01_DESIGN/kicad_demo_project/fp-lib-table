@@ -1,0 +1,12 @@
+(fp_lib_table
+	(version 7)
+	(lib (name ".git") (type "KiCad") (uri "D:/kicad 10.0.3/projects/Lab209b3_Altium_tutorial/.git") (options "") (descr ""))
+	(lib (name "ProjectVD") (type "KiCad") (uri "D:/kicad 10.0.3/projects/Lab209b3_Altium_tutorial/ProjectVD") (options "") (descr ""))
+	(lib (name "Thuvien") (type "KiCad") (uri "D:/kicad 10.0.3/projects/Lab209b3_Altium_tutorial/Thuvien") (options "") (descr ""))
+	(lib (name ".history") (type "KiCad") (uri "${KIPRJMOD}/.history") (options "") (descr ""))
+	(lib (name "_restore_backup_2026-06-18T13-34-43-229") (type "KiCad") (uri "${KIPRJMOD}/_restore_backup_2026-06-18T13-34-43-229") (options "") (descr ""))
+	(lib (name "0_LIB") (type "KiCad") (uri "D:/kicad 10.0.3/projects/Lab209b3_Altium_tutorial/Thuvien/0_LIB") (options "") (descr ""))
+	(lib (name "1_Temp") (type "KiCad") (uri "D:/kicad 10.0.3/projects/Lab209b3_Altium_tutorial/Thuvien/1_Temp") (options "") (descr ""))
+	(lib (name "3_Script") (type "KiCad") (uri "D:/kicad 10.0.3/projects/Lab209b3_Altium_tutorial/Thuvien/3_Script") (options "") (descr ""))
+	(lib (name "LABLIB") (type "Altium Designer") (uri "D:/kicad 10.0.3/projects/Lab209b3_Altium_tutorial/Thuvien/0_LIB/LABLIB.PcbLib") (options "") (descr ""))
+)
