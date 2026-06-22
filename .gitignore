@@ -1,19 +1,54 @@
-# KiCad temporary files
-*.bck
-*.kicad_prl
-*.lck
-_autosave-*
-*-bak
-*-backups/
-*.rpt
-*.rpts
-*.pcode
+# For PCBs designed using KiCad
 
-# Local history
+# Temporary files
+*.000
+*.bak
+*.bck
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*-backups
+*-cache*
+*-bak
+*-bak*
+*~
+~*
+_autosave-*
+#auto_saved_files#
+*.tmp
+*-save.pro
+*-save.kicad_pcb
+fp-info-cache
+~*.lck
+
+# Netlist files
+*.net
+
+# Autorouter files
+*.dsn
+*.ses
+
+# Exported BOM files
+*.xml
+*.csv
+
+# Archived Backups
+**/*-backups/*.zip
+
+# Local git-based history
 .history/
+**/.history/
+
+# Local project settings
+*.kicad_prl
 
 # OS files
 .DS_Store
 Thumbs.db
-.history/
-**/.history/
+
+# Lock files
+*.lck
+
+# Reports
+*.rpt
+*.rpts
+*.pcode
