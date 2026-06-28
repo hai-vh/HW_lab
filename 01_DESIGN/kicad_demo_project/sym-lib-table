@@ -1,4 +1,6 @@
 (sym_lib_table
 	(version 7)
-	(lib (name "AUSB") (type "Altium") (uri "${KIPRJMOD}/AUSB.SchLib") (options "") (descr ""))
+	(lib (name "Altium_lib") (type "Altium") (uri "D:/kicad 10.0.3/KiCad_projects/Lab209b3_Altium_tutorial/Thuvien/0_LIB/LABLIB.SchLib") (options "") (descr ""))
+	(lib (name "ausb") (type "Altium") (uri "D:/kicad 10.0.3/KiCad_projects/Lab209b3_Altium_tutorial/ProjectVD/01_DESIGN_full_thamkhao/AUSB.SchLib") (options "") (descr ""))
+	(lib (name "lablib") (type "Altium") (uri "D:/kicad 10.0.3/KiCad_projects/Lab209b3_Altium_tutorial/Thuvien/0_LIB/LABLIB.SchLib") (options "") (descr ""))
 )
