@@ -9,4 +9,5 @@
 	(lib (name "1_Temp") (type "KiCad") (uri "D:/kicad 10.0.3/projects/Lab209b3_Altium_tutorial/Thuvien/1_Temp") (options "") (descr ""))
 	(lib (name "3_Script") (type "KiCad") (uri "D:/kicad 10.0.3/projects/Lab209b3_Altium_tutorial/Thuvien/3_Script") (options "") (descr ""))
 	(lib (name "LABLIB") (type "Altium Designer") (uri "D:/kicad 10.0.3/projects/Lab209b3_Altium_tutorial/Thuvien/0_LIB/LABLIB.PcbLib") (options "") (descr ""))
+	(lib (name "custom") (type "KiCad") (uri "${KICAD10_FOOTPRINT_DIR}/custom.pretty") (options "") (descr ""))
 )
